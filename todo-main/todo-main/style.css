@@ -1,0 +1,56 @@
+.mixcol {
+    margin: 0px
+}
+.cont {
+    height: 10%;
+    width: 10%;
+}
+.top.bg {
+    background-color: aquamarine;
+    padding-top: 30;
+    height: 350px;
+}
+.tax {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    position: relative;
+    top: -auto;
+}
+.pix {
+    height: 25opx;
+    width: 250px;
+    border-radius: 30%;
+    margin: auto;
+    border: sold;
+    border-color: aquamarine; 
+    border-width: 3px;
+}
+.potlio {
+    font-size: 35px;
+    font-weight: bold;
+    color: rgb(20, 27, 29);
+}
+.btn-bg {
+background-color: aquamarine;
+}
+.pp {
+    color: rgb(30, 39, 47);
+    text-align: justify;
+}
+.fb {
+    width: 100px;
+    height: 100px;
+}
+.inst {
+    width: 100;
+    height: 100px;
+}
+.tele {
+    width: 100px;
+    height: 100px;
+}
+.git {
+    width: 100px;
+    height: 100px;
+}
